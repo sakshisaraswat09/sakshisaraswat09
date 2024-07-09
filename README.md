@@ -65,16 +65,10 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/sakshisaraswat09/sakshisaraswat09/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/sakshisaraswat09/count.svg?" />
 </div>
 
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" />
-</div>
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=sakshisaraswat09&theme=dark" alt="Layout with last medium posts" />
 </div>
